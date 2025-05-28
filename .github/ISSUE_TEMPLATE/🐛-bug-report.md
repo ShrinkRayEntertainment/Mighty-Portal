@@ -1,6 +1,6 @@
 ---
 name: "\U0001F41B Bug report"
-about: Report a problem or unexpected behavior in Mighty Tracking
+about: Report a problem or unexpected behavior
 title: ''
 labels: bug
 assignees: ShrinkRayEntertainment
