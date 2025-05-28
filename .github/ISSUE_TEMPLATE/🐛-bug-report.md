@@ -8,20 +8,21 @@ assignees: ShrinkRayEntertainment
 ---
 
 **Describe the Bug**  
-A clear, concise description of what went wrong.
+A clear, concise description of what went wrong in Mighty Portal.
 
 **Reproduction Steps**  
-1. Import the Mighty Tracking package into a fresh Unity project.  
-2. Attach a Tracker component to a GameObject (e.g. Player).  
-3. Press Play and drive the object through your scene.  
-4. _What you did next…_  
-5. _The moment it failed…_  
+1. Import the Mighty Portal package into a fresh Unity project.  
+2. In the Scene view, point at a distant terrain location.  
+3. Press the Portal hotkey 
+4. Observe camera movement.  
+5. _What you did next…_  
+6. _The moment it failed…_
 
 **Actual vs. Expected**  
 - **What happened:**  
 - **What you expected:**  
 
-**Logs & Console Output**  
+**Console Logs & Errors**  
 Paste any errors or warnings from the Unity Console here.
 
 **Screenshots / GIF**  
@@ -31,4 +32,4 @@ If it helps, attach a screenshot or animated GIF showing the issue.
 - **OS:** Windows / macOS / Linux  
 
 **Additional Context**  
-Anything else you tried or think might be related (custom scripts, other assets, etc.).
+Anything else you tried or think might be related (custom camera scripts, other scene tools, editor extensions, etc.).
